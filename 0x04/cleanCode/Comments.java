@@ -19,9 +19,9 @@ public class Comments {
     }
 
     /**
-     * Publica resultados com base na data fornecida.
+     * <p> este método publica resultados com base na data </p>
      *
-     * @param date Data a partir da qual os resultados devem ser publicados
+     * @param date data a partir da qual os resultados devem ser publicados
      * @return Lista de entidades de resultado
      * @since 16.0
      */
