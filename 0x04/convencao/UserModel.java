@@ -9,7 +9,7 @@ public class UserModel {
     public static final int IDADE_MINIMA = 18;
 
     // Método que retorna todos os usuários
-    public List<UserModel> fetchUsers() {
+    public List<UserModel> getUsers() {
         return new ArrayList<>();
     }
 
