@@ -2,6 +2,8 @@ import java.util.Date;
 import java.util.List;
 
 public class Comments {
+    // Copyright (C) 2022 by CleanCode.
+    // Lançado sob os termos da GNU General Public License versão 2 ou posterior
 
     // TODO: Este método deve ser removido
     public void check() {
