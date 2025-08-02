@@ -23,7 +23,7 @@ public class Comments {
      *
      * @param date data a partir da qual os resultados devem ser publicados
      * @return Lista de entidades de resultado
-     * @since 16.0
+     * @desde 16.0
      */
     public List<Result> publishResults(Date date) {
         // lógica de negócios
